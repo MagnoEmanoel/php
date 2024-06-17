@@ -11,7 +11,7 @@ $divisao = 10/3; // o php descobre o tipo de dado que sexra exibido de acordo co
 
 $texto = "Ola mundo"; // para texto ele exibe "string"
 
-$verdadeiro = true; // o php chama as variaveis false e true de Boolean 
+$verdadeiro = true; // o php chama as variaveis false e true de Boolean. 
 $falso = false;
 
 echo gettype($falso);
